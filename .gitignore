@@ -1,0 +1,11 @@
+# Qt/C++ Ignore List
+build/
+build-*/
+debug/
+release/
+*.user
+*.exe
+*.dll
+*.zip
+.qmake.stash
+Makefile*

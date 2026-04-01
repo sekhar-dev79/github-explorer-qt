@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/themes">
+        <file alias="dark.qss">theme/themes/dark.qss</file>
+        <file alias="light.qss">theme/themes/light.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icons/app.png</file>
+        <file>icons/bookmark.svg</file>
+        <file>icons/book-marked.svg</file>
+        <file>icons/folder-git-2.svg</file>
+        <file>icons/git-fork.svg</file>
+        <file>icons/hand-heart.svg</file>
+        <file>icons/handshake.svg</file>
+        <file>icons/link.svg</file>
+        <file>icons/lock.svg</file>
+        <file>icons/map-pin.svg</file>
+        <file>icons/moon.svg</file>
+        <file>icons/search.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/star.svg</file>
+        <file>icons/sun.svg</file>
+        <file>icons/trending-up.svg</file>
+        <file>icons/users.svg</file>
+        <file>icons/file-text.svg</file>
+        <file>icons/user-check.svg</file>
+        <file>icons/building.svg</file>
+        <file>icons/key.svg</file>
+        <file>icons/x.svg</file>
+        <file>icons/activity.svg</file>
+        <file>icons/info.svg</file>
+        <file>icons/alert-triangle.svg</file>
+        <file>icons/loader.svg</file>
+        <file>icons/github.svg</file>
+        <file>icons/chevron-down.svg</file>
+        <file>icons/chevron-up.svg</file>
+    </qresource>
+</RCC>
